@@ -1,0 +1,231 @@
+*{ 
+    margin: 0;
+} 
+ body{ 
+    font-family: 'Work Sans', sans-serif;
+ }
+header{
+ background-image: url('banner2.png'); 
+  background-repeat: no-repeat; 
+  background-size: cover;
+  height: 800px;
+}
+    
+.head-content{
+   padding-top: 216px; 
+    width: 500px; 
+    height: 155px; 
+    margin-left: 845px;
+} 
+ .content{ 
+   color:  #151414;
+text-align: right;
+
+font-size: 65px;
+
+font-weight: 700;
+
+ }
+ .pera-tag{
+   color:  #444343;
+text-align: right;
+margin-left: 100px; 
+margin-top: 20px;
+font-size: 16px;
+width: 400px;
+font-weight: 400;
+ } 
+  .button1{ 
+   border-radius: 5px;
+background: #F15B22;
+padding: 20px 25px; 
+border: none;
+color: #FFF; 
+font-size: 18px;
+font-weight: 600; 
+margin-left: 350px; 
+margin-top: 25px;
+  } 
+   
+   .pic{ 
+     display: flex; 
+      justify-content: space-around; 
+       margin: 140px 322px 140px 206px; 
+        gap: 87px;
+   } 
+    .main-head{ 
+        color:  #151414;
+        font-size: 40px;
+        font-weight: 700;
+    
+    } 
+     .pera-details{ 
+        color:  #444343;
+        font-size: 16px;
+        font-weight: 400; 
+         margin-top: 24px;
+     
+     } 
+      .details{ 
+        width: 413px; 
+         margin-top: 250px;
+      } 
+       .list-item{ 
+         margin-top: 16px;
+       } 
+       .list-item,li{ 
+         margin-bottom: 8px;
+         color: #444343;
+         font-size: 16px;
+         font-weight: 400;
+
+       } 
+       .head-seciton-3{ 
+         
+         color: #151414;
+         font-size: 40px;
+         font-weight: 700; 
+          margin-left: 680px;
+          
+
+       } 
+       .my-plans-part{ 
+            display: flex; 
+             margin: 55px 200px  130px;
+        
+        } 
+         .logo{ 
+             margin-left: 99px;
+         } 
+          .logo-head{ 
+            color: #151414;
+           font-size: 20px;
+             font-weight: 700;
+
+          } 
+           .img-png1{ 
+            margin-left: 20px;
+            margin-bottom: 10px;
+           }  
+           .img-png{ 
+             margin-bottom: 10px;
+           } 
+            .logo-pera{ 
+                 color: #737272;
+                 font-weight: 500; 
+                  margin-top: 10px; 
+                   padding-right: 25px;
+            }
+
+            .section4{ 
+                 background-image: url('watch.png'); 
+                   
+                 height: 300px; 
+                  width: 1000px; 
+                   margin: 130px 250px; 
+                    border-radius: 5px;
+            }
+      .colorfull{ 
+         background-image: url('gradient2.png');
+         height: 300px; 
+         width: 1000px;
+      } 
+       .button2{ 
+        border-radius: 5px;
+        color:#F15B22 ; 
+        background:  #FFF;
+        padding: 15px 20px; 
+        border: none;
+        font-size: 18px;
+        font-weight: 600;   
+        margin-left: 64px; 
+         margin-top: 15px;
+        
+         
+        
+        
+       } 
+        .head-set{ 
+            color: #FFF;
+            font-size: 30px;
+            font-weight: 700;
+          
+         
+            
+        }
+        .colorfull-head-set{ 
+             
+             margin-left: 64px; 
+              padding-top: 80px; 
+               width: 450px;
+        }
+        .last-footer{
+            background-color: #151414;
+            height: 500px; 
+             width: 100%; 
+            
+        } 
+         .last-footer-div{ 
+          display: flex; 
+          
+            margin:  230px 300px; 
+             padding-top: 130px; 
+             
+         } 
+         .head-footer{ 
+            color: #F8F8F8;
+
+            font-size: 45px;
+         font-family: 'Times New Roman', Times, serif;
+             font-weight: 700; 
+              margin-bottom: 15px;
+
+         } 
+          .head-footer1{ 
+            color: #FFF;
+            font-size: 25px;
+            font-weight: 600; 
+             font-family: 'Times New Roman', Times, serif;
+
+          } 
+           .last-footer-head{ 
+            width:1500px; 
+            
+           }  
+            .last-footer-head1{ 
+                           margin-left: 150px;
+            }
+           
+            .footer-pera{ 
+              color: #FFF;
+            
+              font-size: 15px;
+             
+              font-weight: 400; 
+               margin-bottom: 16px;
+          
+            } 
+            .footer-logo{ 
+              margin-right: 15px;
+            }
+            .emil-bar{  
+               margin-top: 15px;
+               display: block; 
+                background-color: #151414; 
+                 border: 1px solid white; 
+                  border-radius: 8px; 
+                   height: 40px; 
+                    width: 300px; 
+                    padding-left: 10px; 
+                     color: white;
+            } 
+             .button3{ 
+              border-radius: 5px;
+              color:#F15B22 ; 
+              background:  #FFF;
+              padding: 15px 20px; 
+              border: none;
+              font-size: 18px;
+              font-weight: 600; 
+               margin-top: 20px; 
+             }
